@@ -1,2 +1,2 @@
 # dewscripts
-This is a dummy project for kaparabhil 
+This is a dummy project for kaparampil
